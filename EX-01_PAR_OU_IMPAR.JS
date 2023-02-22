@@ -9,5 +9,3 @@ if (isNaN(num)) {
     console.log(num + "é impar");
   }
 }
-
-alert("isso é um");
